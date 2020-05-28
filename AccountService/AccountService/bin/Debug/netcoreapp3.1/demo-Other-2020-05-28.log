@@ -1,0 +1,6 @@
+2020-05-28 10:19:34.1888||DEBUG|AccountService.Program|init main function |url: |action: 
+2020-05-28 10:19:42.1929|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/weatherforecast|action: 
+2020-05-28 10:19:42.9898||INFO|AccountService.Controllers.AccountController|User Login |url: http://localhost/api/Account/SellerLogin/suma/bade123|action: SellerLogin
+2020-05-28 10:19:47.4840||INFO|AccountService.Controllers.AccountController|Welcomesuma |url: http://localhost/api/Account/SellerLogin/suma/bade123|action: SellerLogin
+2020-05-28 11:02:01.9839||DEBUG|AccountService.Program|init main function |url: |action: 
+2020-05-28 11:02:28.6163|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/weatherforecast|action: 
